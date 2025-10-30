@@ -1,1 +1,1 @@
-# Emulator-Thermo-Trends
+# AI-model-regional-trends
